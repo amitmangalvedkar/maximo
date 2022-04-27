@@ -41,7 +41,7 @@
             "value": "Standard_D8s_v3"
         },
         "numWorkerReplicas": {
-            "value" : "9"
+            "value" : "15"
         },
         "adminUsername": {
             "value": "azureuser"
@@ -86,7 +86,7 @@
             "value": "maximoBastionHost"
         },
         "openshiftVersion":{
-            "value": "4.6.52"
+            "value": "4.8.36"
         },
         "azureFilesCSIVersion":{
             "value": "v1.12.0"
