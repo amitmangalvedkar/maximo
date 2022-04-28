@@ -48,6 +48,6 @@ platform:
     cloudName: AzurePublicCloud
     outboundType: Loadbalancer
     region: $deployRegion
-publish: External
+publish: Internal
 pullSecret: '$pullSecret'
 sshKey: '$sshPubKey'
